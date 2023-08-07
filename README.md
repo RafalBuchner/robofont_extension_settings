@@ -1,1 +1,1 @@
-# Curvature Visualizator
+# Robofont Extension Settings
