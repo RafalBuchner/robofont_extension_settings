@@ -5,7 +5,7 @@
 	<key>addToMenu</key>
 	<array/>
 	<key>developer</key>
-	<string>Rafał buchner</string>
+	<string>Rafał Buchner</string>
 	<key>developerURL</key>
 	<string>http://github.com/rafalbuchner</string>
 	<key>html</key>
@@ -13,16 +13,16 @@
 	<key>launchAtStartUp</key>
 	<true/>
 	<key>mainScript</key>
-	<string>curvatureVisualizatorSubscriber.py</string>
+	<string>extensionsSettingsMain.py</string>
 	<key>name</key>
-	<string>CurvatureVisualizator</string>
+	<string>ExtensionsSettings</string>
 	<key>requiresVersionMajor</key>
 	<string>4</string>
 	<key>requiresVersionMinor</key>
 	<string>2</string>
 	<key>timeStamp</key>
-	<real>1690753575.9448919</real>
+	<real>1690891559.618679</real>
 	<key>version</key>
-	<string>0.5.0</string>
+	<string>0.5.2</string>
 </dict>
 </plist>

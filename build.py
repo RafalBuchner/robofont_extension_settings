@@ -1,9 +1,9 @@
-'''build RoboFont Extension'''
+'''build RoboFont Extension's Settings'''
 
 import os
 from mojo.extensions import ExtensionBundle
 
-__version__ = "0.5.0"
+__version__ = "0.5.2"
 
 def exec_cmd(cmd):
     import subprocess
@@ -55,7 +55,7 @@ B = ExtensionBundle()
 B.name = "ExtensionsSettings"
 
 # name of the developer
-B.developer = 'Rafał buchner'
+B.developer = 'Rafał Buchner'
 
 # URL of the developer
 B.developerURL = 'http://github.com/rafalbuchner'
@@ -71,7 +71,7 @@ B.version = __version__
 B.launchAtStartUp = True
 
 # script to be executed when RF starts
-B.mainScript = 'main.py'
+B.mainScript = 'extensionsSettingsMain.py'
 
 # does the extension contain html help files?
 B.html = False
